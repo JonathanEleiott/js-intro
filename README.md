@@ -25,9 +25,9 @@
 
 - Numbers
   - mathematical operators
-    - + -> add
-    - - -> subtract
-    - * -> multiply
+    - \+ -> add
+    - \- -> subtract
+    - \* -> multiply
     - / -> divide
     - % -> modulus (remainder if you divide two numbers)
 - Strings
