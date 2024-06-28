@@ -23,7 +23,7 @@ const remainder = 13 % 2; // 1
 const firstName = `Lucy`;
 const lastName = `Ford`;
 
-const fullName = `${firstName} ${lastName}`;
+const fullName = `Your full name is ${firstName} ${lastName}`;
 
 
 // typeof tells us the data type of a variable
