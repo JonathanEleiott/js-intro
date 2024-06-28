@@ -48,7 +48,7 @@
 - === -> strictly equals (checks for data type)
 - != -> loosely does not equal (DO NOT USE)
 - !== -> strictly does not equal
-- > -> greater than
+- \> -> greater than
 - < -> less than
-- >= -> greater than or equal to
+- \>= -> greater than or equal to
 - <= -> less than or equal to
